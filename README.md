@@ -1,3 +1,5 @@
 # SaveTheHumans
 
-This project is learning materials.
+This is a learning project.
+
+Source: O'Reilly Head First C# 3rd Version
